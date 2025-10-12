@@ -53,3 +53,8 @@ _**Education Tech (EdTech)**_
 ------------------------
 **Renaissance**    
 [Renaissance Learning and AWS collaborated to build a solution that automatically analyzes and categorizes educational content, mapping items to relevant state standards using natural language processing. Built on Amazon Bedrock and leveraging Amazon OpenSearch for information retrieval, AWS Lambda for serverless processing, the solution intelligently maps content and learns from existing mapped content to improve accuracy. The solution also provides confidence scores for mapped relationships. ](https://aws.amazon.com/blogs/publicsector/renaissance-uses-generative-ai-on-aws-to-accelerate-personalized-learning-at-scale/)   
+
+_**Legal Tech (EdTech)**_
+------------------------
+**Robin AI**    
+[LLM-as-a-jury: Robin AI accelerates contract work for legal professionals using AI-powered tools combined with expert legal knowledge. Their legal assistant traditionally relied on human experts to assess AI-generated legal answers, a process they have now begun to automate and scale through a partnership with the AWS Generative AI Innovation Center. Robin AI employed an LLM-as-a-judge approach using Amazon #Bedrock with Amazon #Nova Pro and Anthropic's #Claude 3 Haiku to serve as an LLM "jury." These foundation models were fine-tuned on data from over 500 contracts across nine types and guided by expert feedback to evaluate and improve the quality of AI-generated legal responses, incorporating prompt optimization, data augmentation, and iterative model training for enhanced accuracy and reliability. ](https://robinai.com/platform/)   
