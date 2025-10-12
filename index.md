@@ -31,6 +31,11 @@ _**Healthcare**_
 **Experity**    
 [Experity Launches Care Agent: The First Clinical Intelligence Solution for Urgent Care ](https://www.experityhealth.com/news/experity-launches-care-agent-the-first-clinical-intelligence-solution-for-urgent-care/)   
 
+_**Insurance**_
+------------------------
+**Travelers**    
+[Foundation model(FM)-based classifier through prompt engineering: Travelers receives millions of emails a year with agent or customer requests to service policies. The system Travelers built uses the predictive capabilities of FMs to classify complex, and sometimes ambiguous, service request emails into several categories. This FM classifier powers the automation system that can save tens of thousands of hours of manual processing and redirect that time toward more complex tasks. With Anthropic’s Claude models on Amazon Bedrock, we formulated the problem as a classification task, and through prompt engineering and partnership with the business subject matter experts, we achieved 91% classification accuracy. ](https://aws.amazon.com/blogs/machine-learning/how-travelers-insurance-classified-emails-with-amazon-bedrock-and-prompt-engineering/)   
+
 
 _**Public Sector**_
 ------------------------
