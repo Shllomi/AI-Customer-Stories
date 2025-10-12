@@ -24,7 +24,7 @@ Pix on WhatsApp is one of the first solutions connected to Inteligência Itaú a
 _**Digital Transformation**_
 ------------------------
 **Pitney Bowes**    
-𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗕𝗲𝗮𝗰𝗼𝗻 𝘄𝗶𝘁𝗵 𝗟𝗶𝘃𝗲 𝗔𝗴𝗲𝗻𝘁 𝗛𝗮𝗻𝗱𝗼𝘃𝗲𝗿 [Read-More](https://www.pitneybowes.com/content/dam/campaign/bpx-pitneybowes-whitepaper3-aishipping-041025-v3.pdf?cid=email_us_sts_pitneyshipper_growth_marketing_june24_2025_link2_ai_powered_shipping_whitepaper)   
+Agentic AI Beacon with Live Agent Handover [Read-More](https://www.pitneybowes.com/content/dam/campaign/bpx-pitneybowes-whitepaper3-aishipping-041025-v3.pdf?cid=email_us_sts_pitneyshipper_growth_marketing_june24_2025_link2_ai_powered_shipping_whitepaper)   
 
 _**Healthcare**_
 ------------------------
