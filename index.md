@@ -35,10 +35,16 @@ _**Healthcare**_
 _**Public Sector**_
 ------------------------
 **US Environmental Protection Agency (EPA)**    
-[Intelligent document processing solution powered by Anthropic models on AmazonBedrock  ](https://aws.amazon.com/blogs/publicsector/accelerating-workflows-with-generative-ai-epas-document-processing-journey/)   
+[Intelligent document processing solution: The team built intelligent document processing solutions, powered by Anthropic models on AmazonBedrock to address labor intensive processes of assessing chemical risk and review and regulate pesticides in the U.S. Both solutions leverage intelligent document processing using Amazon Simple Storage Service and Amazon Textract, as well as incorporating knowledge bases and criteria from EPAs own data stores. Most importantly, the heavy lifting of assessing, comparing, evaluating is done by generative AI, but the humans remain in the loop and in control, accepting or modifying the AI generated evaluations before finalizing decisions.
+  ](https://aws.amazon.com/blogs/publicsector/accelerating-workflows-with-generative-ai-epas-document-processing-journey/)   
 
 _**Education**_
 ------------------------
 **The University of Texas at Austin**    
 [UT Sage: A virtual instructional designer and AI Tutor designed by UT Austin experts to support the responsible use of generative AI in teaching and learning, Built on
-AmazonBedrock and powered by Anthropic Claude models ](https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ut-sage/)   
+AmazonBedrock and powered by Anthropic Claude models.  ](https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ut-sage/)   
+
+_**Education Tech (EdTech)**_
+------------------------
+**Renaissance**    
+[Renaissance Learning and AWS collaborated to build a solution that automatically analyzes and categorizes educational content, mapping items to relevant state standards using natural language processing. Built on Amazon Bedrock and leveraging Amazon OpenSearch for information retrieval, AWS Lambda for serverless processing, the solution intelligently maps content and learns from existing mapped content to improve accuracy. The solution also provides confidence scores for mapped relationships. ](https://aws.amazon.com/blogs/publicsector/renaissance-uses-generative-ai-on-aws-to-accelerate-personalized-learning-at-scale/)   
