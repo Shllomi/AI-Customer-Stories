@@ -12,3 +12,9 @@ author: Shllomi Ezra
 {: .box-success}
 
 This repository provides various public stories on how organizations approach and implement AI. If you have a story to share, please create a  [pull request](https://github.com/Shllomi/AI-Customer-Stories)!
+
+_**Financial Services**_
+------------------------
+**Example 1**    
+[Example ](https://example.com)   
+
