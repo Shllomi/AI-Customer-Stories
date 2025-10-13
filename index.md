@@ -9,8 +9,6 @@ mathjax: true
 author: Shllomi Ezra
 ---
 
-{: .box-success}
-
 **Example 1**    
 Example [Read-More](https://example.com)  
 
