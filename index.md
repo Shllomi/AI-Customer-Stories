@@ -15,16 +15,6 @@ _**Financial Services**_
 ------------------------ 
 **Itaú Unibanco**    
 Pix on WhatsApp is one of the first solutions connected to Inteligência Itaú and uses generative AI to interact with clients through WhatsApp and make day-to-day transfers in an automated and instant way. [Learn-More](https://www.itau.com.br/relacoes-com-investidores/noticias/inteligencia-itau-banco-lanca-nova-experiencia-para-clientes-com-ia-generativa/?lang=en)   
-
-_**Digital Transformation**_
-------------------------
-**Pitney Bowes**    
-Pitney Bowes developed Agentic AI Beacon with Live Agent Handover, which was launched in PitneyShip. PitneyShip is a cloud-based shipping and mailing software that helps businesses streamline their shipping processes by offering discounted rates from multiple carriers (like USPS and UPS), printing postage, tracking packages, and providing reporting features. Built using Amazon Bedrock, the solution leverages multi-agent orchestration using specialized agents plus a "master" agent for routing, and an enterprise-tuned RAG using Bedrock Knowledge Bases to optimize the groundedness of responses. Other technical highlights include built-in governance (e.g. APIs, observability, compliance guardrails), and evaluation harnesses, enabling fully automated customer simulation before rollout. [Learn-More](https://www.pitneybowes.com/content/dam/campaign/bpx-pitneybowes-whitepaper3-aishipping-041025-v3.pdf?cid=email_us_sts_pitneyshipper_growth_marketing_june24_2025_link2_ai_powered_shipping_whitepaper)   
-
-**LG Electronics (LGE)**    
-LGE and GenAIIC built a YouTube analytics solution for market competitiveness analysis. The automated system uses a multi-model approach with Anthropic Claude 3.7 and
-Amazon Nova Pro on Amazon Bedrock, extracting 24 structured fields from video transcripts and comments, including sentiment analysis, product features, and multi-format summaries with real time Q&A capabilities. The solution implements LLM-based evaluation using consistency, alignment, and coverage metrics to ensure measurable extraction quality. It is integrated with an in-house social media portal where business professionals can easily (and timely) gain insights.
- [Learn-More (Korean)](https://aws.amazon.com/ko/blogs/tech/lg-social-media-analysis-with-amazon-bedrock/)  
  
  _**Healthcare**_
 ------------------------
@@ -43,6 +33,16 @@ _**Retail**_
 ------------------------
 **Cars Commerce (Cars.com)**    
 Cars.com was looking to improve the search experience for customers. The traditional legacy search filters worked for basic searches, but limited the vehicle discovery experience, as a query like "family-friendly SUV under $30K with good gas mileage" wasn't interpreted by the legacy system, leading to abandoned searches and an incomplete user experience. Cars.com built an innovative search solution that transforms how users discover vehicles through natural language queries. Built using Amazon Bedrock and Amazon Open Search, and powered by multiple foundation models, the solution implements low latency text-to-query for real-time search, and includes intelligent query parsing that converts conversational requirements into technical specifications and contextual enrichment through Cars.com's proprietary article database. This seamless translation process delivers highly relevant vehicle options that truly match what customers are seeking. [Try-it-out-here:](https://www.cars.com/)   
+
+_**Digital Transformation**_
+------------------------
+**Pitney Bowes**    
+Pitney Bowes developed Agentic AI Beacon with Live Agent Handover, which was launched in PitneyShip. PitneyShip is a cloud-based shipping and mailing software that helps businesses streamline their shipping processes by offering discounted rates from multiple carriers (like USPS and UPS), printing postage, tracking packages, and providing reporting features. Built using Amazon Bedrock, the solution leverages multi-agent orchestration using specialized agents plus a "master" agent for routing, and an enterprise-tuned RAG using Bedrock Knowledge Bases to optimize the groundedness of responses. Other technical highlights include built-in governance (e.g. APIs, observability, compliance guardrails), and evaluation harnesses, enabling fully automated customer simulation before rollout. [Learn-More](https://www.pitneybowes.com/content/dam/campaign/bpx-pitneybowes-whitepaper3-aishipping-041025-v3.pdf?cid=email_us_sts_pitneyshipper_growth_marketing_june24_2025_link2_ai_powered_shipping_whitepaper)   
+
+**LG Electronics (LGE)**    
+LGE and GenAIIC built a YouTube analytics solution for market competitiveness analysis. The automated system uses a multi-model approach with Anthropic Claude 3.7 and
+Amazon Nova Pro on Amazon Bedrock, extracting 24 structured fields from video transcripts and comments, including sentiment analysis, product features, and multi-format summaries with real time Q&A capabilities. The solution implements LLM-based evaluation using consistency, alignment, and coverage metrics to ensure measurable extraction quality. It is integrated with an in-house social media portal where business professionals can easily (and timely) gain insights.
+ [Learn-More (Korean)](https://aws.amazon.com/ko/blogs/tech/lg-social-media-analysis-with-amazon-bedrock/)  
 
 _**Public Sector**_
 ------------------------
