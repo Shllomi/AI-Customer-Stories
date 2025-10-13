@@ -39,6 +39,11 @@ _**Insurance**_
 **Travelers**    
 Foundation model(FM)-based classifier through prompt engineering: Travelers receives millions of emails a year with agent or customer requests to service policies. The system Travelers built uses the predictive capabilities of FMs to classify complex, and sometimes ambiguous, service request emails into several categories. This FM classifier powers the automation system that can save tens of thousands of hours of manual processing and redirect that time toward more complex tasks. With Anthropic’s Claude models on Amazon Bedrock, we formulated the problem as a classification task, and through prompt engineering and partnership with the business subject matter experts, we achieved 91% classification accuracy. [Learn-More](https://aws.amazon.com/blogs/machine-learning/how-travelers-insurance-classified-emails-with-amazon-bedrock-and-prompt-engineering/)   
 
+_**Retail**_
+------------------------
+**Cars Commerce (Cars.com)**    
+Cars.com was looking to improve the search experience for customers. The traditional legacy search filters worked for basic searches, but limited the vehicle discovery experience, as a query like "family-friendly SUV under $30K with good gas mileage" wasn't interpreted by the legacy system, leading to abandoned searches and an incomplete user experience. Cars.com built an innovative search solution that transforms how users discover vehicles through natural language queries. Built using Amazon Bedrock and Amazon Open Search, and powered by multiple foundation models, the solution implements low latency text-to-query for real-time search, and includes intelligent query parsing that converts conversational requirements into technical specifications and contextual enrichment through Cars.com's proprietary article database. This seamless translation process delivers highly relevant vehicle options that truly match what customers are seeking. [Try-it-out-here:](https://www.cars.com/)   
+
 _**Public Sector**_
 ------------------------
 **US Navy COMSUBFOR (Commander, Submarine Force)**    
@@ -50,6 +55,8 @@ Intelligent document processing solution: The team built intelligent document pr
 **Buenos Aires City Government**    
 The Buenos Aires City Government upgraded its popular WhatsApp AI assistant, Boti, using LangGraph and Amazon Bedrock. This enhancement introduced an agentic AI solution to help citizens navigate the city's 1,300 complex government procedures.
 The system features an input guardrail that uses a custom LLM classifier to approve or block user requests based on content. Approved queries are then handled by a government procedure agent, which retrieves the relevant information and generates a response. The assistant maintains Boti's characteristic style, delivering short, helpful messages in Argentina's Rioplatense Spanish dialect. [Learn-More](https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/) (More on Boti [here](https://lnkd.in/eWXD3rCM))
+
+
 
 _**Independent Software Vendors (ISV)**_
 ------------------------
