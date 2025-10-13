@@ -67,8 +67,18 @@ Amazon Nova Pro on Amazon Bedrock, extracting 24 structured fields from video tr
 [Learn-More (Korean)](https://aws.amazon.com/ko/blogs/tech/lg-social-media-analysis-with-amazon-bedrock/)  
 
 **POSCO HOLDINGS DX** 
-POSCO was looking to automate the manual, time consuming process for their hardware engineers, the creation of PLC card drawings with AutoCAD. The legacy process required highly skilled engineers to understand complex Excel structures across multiple worksheets to identify appropriate PLC cards for specific sensors, handle AutoCAD files, manipulate Excel data, and adapt to various input formats from multiple suppliers. Thry built an AgenticAI to automate the entire PLC card drawing generation process. The solution combines AI-based and rule-based pure Python-coding approaches to understand semi-structured Excel documents, extract relevant information, and generate AutoCAD files automatically. The solution is powered by Amazon Bedrock, using autoplanning and coordinating from a plain prompt as well as visual understanding of semi-structured Excel documents and images with Anthropic's Claude Sonnet 3.7 Large Language Model (LLM) and Vision Language Model (VLM). The result? Instead of days to produce a single PLC card, the process is automated to 6 minutes with 99% accuracy. 
+POSCO was looking to automate the manual, time consuming process for their hardware engineers, the creation of PLC card drawings with AutoCAD. The legacy process required highly skilled engineers to understand complex Excel structures across multiple worksheets to identify appropriate PLC cards for specific sensors, handle AutoCAD files, manipulate Excel data, and adapt to various input formats from multiple suppliers. Thry built an AgenticAI to automate the entire PLC card drawing generation process. The solution combines AI-based and rule-based pure Python-coding approaches to understand semi-structured Excel documents, extract relevant information, and generate AutoCAD files automatically. The solution is powered by Amazon Bedrock, using autoplanning and coordinating from a plain prompt as well as visual understanding of semi-structured Excel documents and images with Anthropic's Claude Sonnet 3.7 Large Language Model (LLM) and Vision Language Model (VLM). The result? Instead of days to produce a single PLC card, the process is automated to 6 minutes with 99% accuracy.  
 [Learn-More](https://www.mk.co.kr/en/it/11366537)  
+
+_**Independent Software Vendors (ISV)**_
+------------------------
+**DTEX Systems**    
+DTEX is using GenAI to help analyst teams respond faster, understand the intention of end users, and interpret human behavior in ways that weren't possible previously. Support from the GenAIIC unlocked this potential for DTEX by providing best practices for adoption of Claude models via Amazon Bedrock to better fit the needs of the use case, and co-developing DTEX's proprietary capabilities for vector embedding and semantic analysis on their data set. Further support from the Amazon Open Search team has enabled DTEX to be efficient and follow best practices for architecture design, implementation, and production of their solutions.  
+[Learn-More](https://www.youtube.com/watch?v=m9MWN9XpX5Y)   
+
+**Druva**    
+Druva built multi-agent system that can understand and respond to customer questions in everyday language. Using Amazon Bedrock, AgentCore, and Strands Agents, the solution uses multiple AI agents that work together to dynamically choose the right tool from hundreds of options, to proactively secure, recover, and manage customer data. The system consists of a supervisor agent and sub-agents, including: 1/ Data Agents that surface key signals and trends from telemetry, risk indicators, and history, 2/ Help agent that guide users by troubleshooting problems, investigating incidents, and recommending next steps, and 3/ Action agents that carry out specific tasks, such as recovering workloads, creating protection policies, or adjusting retention to optimize cost. When customers ask a question or need help, the system figures out what they need and handles the technical work "behind the scenes," making it much easier for customers to get things done without needing to understand the technical processes.  
+[Learn-More](https://www.druva.com/about/press-releases/druva-introduces-ai-agents-to-simplify-cyber-resilience)  
 
 _**Public Sector**_
 ------------------------
@@ -84,12 +94,6 @@ Intelligent document processing solution: The team built intelligent document pr
 The Buenos Aires City Government upgraded its popular WhatsApp AI assistant, Boti, using LangGraph and Amazon Bedrock. This enhancement introduced an agentic AI solution to help citizens navigate the city's 1,300 complex government procedures.
 The system features an input guardrail that uses a custom LLM classifier to approve or block user requests based on content. Approved queries are then handled by a government procedure agent, which retrieves the relevant information and generates a response. The assistant maintains Boti's characteristic style, delivering short, helpful messages in Argentina's Rioplatense Spanish dialect.  
 [Learn-More](https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/) (More on Boti [here](https://lnkd.in/eWXD3rCM))
-
-_**Independent Software Vendors (ISV)**_
-------------------------
-**DTEX Systems**    
-DTEX is using GenAI to help analyst teams respond faster, understand the intention of end users, and interpret human behavior in ways that weren't possible previously. Support from the GenAIIC unlocked this potential for DTEX by providing best practices for adoption of Claude models via Amazon Bedrock to better fit the needs of the use case, and co-developing DTEX's proprietary capabilities for vector embedding and semantic analysis on their data set. Further support from the Amazon Open Search team has enabled DTEX to be efficient and follow best practices for architecture design, implementation, and production of their solutions.  
-[Learn-More](https://www.youtube.com/watch?v=m9MWN9XpX5Y)   
 
 _**Education**_
 ------------------------
@@ -109,6 +113,3 @@ _**Legal Tech**_
 **Robin AI**    
 LLM-as-a-jury: Robin AI accelerates contract work for legal professionals using AI-powered tools combined with expert legal knowledge. Their legal assistant traditionally relied on human experts to assess AI-generated legal answers, a process they have now begun to automate and scale through a partnership with the AWS Generative AI Innovation Center. Robin AI employed an LLM-as-a-judge approach using Amazon #Bedrock with Amazon #Nova Pro and Anthropic's #Claude 3 Haiku to serve as an LLM "jury." These foundation models were fine-tuned on data from over 500 contracts across nine types and guided by expert feedback to evaluate and improve the quality of AI-generated legal responses, incorporating prompt optimization, data augmentation, and iterative model training for enhanced accuracy and reliability.  
 [Learn-More](https://robinai.com/platform/)   
-
-**Example 1**    
-Example [Learn-More](https://example.com)  
