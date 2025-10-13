@@ -9,10 +9,6 @@ mathjax: true
 author: Shllomi Ezra
 ---
 
-**Example 1**    
-Example [Read-More](https://example.com)  
-
-
 This repository provides various public stories on how organizations approach and implement AI. If you have a story to share, please create a  [pull request](https://github.com/Shllomi/AI-Customer-Stories)!
 
 _**Financial Services**_
@@ -70,3 +66,6 @@ _**Legal Tech (EdTech)**_
 ------------------------
 **Robin AI**    
 LLM-as-a-jury: Robin AI accelerates contract work for legal professionals using AI-powered tools combined with expert legal knowledge. Their legal assistant traditionally relied on human experts to assess AI-generated legal answers, a process they have now begun to automate and scale through a partnership with the AWS Generative AI Innovation Center. Robin AI employed an LLM-as-a-judge approach using Amazon #Bedrock with Amazon #Nova Pro and Anthropic's #Claude 3 Haiku to serve as an LLM "jury." These foundation models were fine-tuned on data from over 500 contracts across nine types and guided by expert feedback to evaluate and improve the quality of AI-generated legal responses, incorporating prompt optimization, data augmentation, and iterative model training for enhanced accuracy and reliability. [Read-More](https://robinai.com/platform/)   
+
+**Example 1**    
+Example [Read-More](https://example.com)  
