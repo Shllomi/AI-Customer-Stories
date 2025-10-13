@@ -77,6 +77,11 @@ POSCO was looking to automate the manual, time consuming process for their hardw
 
 _**Independent Software Vendors (ISV)**_
 ------------------------
+**Adobe**  
+Adobe launched Adobe Unified Support, with the goal of helping thousands of the company's developers get immediate answers to questions from a centralized system.
+Unified Support leverages Amazon Bedrock Knowledge Bases and the Vector Engine for Amazon OpenSearch Serverless to enhance document retrieval in a scalable, automated fashion. Amazon Bedrock Knowledge Bases is the backbone of the system, which indexes data through data ingestion, chunking, vectorization, and storage. When a user poses a question, the system vectorizes the query, retrieves most relevant chunks of data, and scores the relevant chunks so that the top ranked information is presented to the user. Metadata filtering was also added to provide developers with the option to retrieve data that is semantically relevant and spans multiple domains based on specific criteria.  
+[Learn-More](https://aws.amazon.com/blogs/machine-learning/adobe-enhances-developer-productivity-using-amazon-bedrock-knowledge-bases/)  
+
 **DTEX Systems**    
 DTEX is using GenAI to help analyst teams respond faster, understand the intention of end users, and interpret human behavior in ways that weren't possible previously. Support from the GenAIIC unlocked this potential for DTEX by providing best practices for adoption of Claude models via Amazon Bedrock to better fit the needs of the use case, and co-developing DTEX's proprietary capabilities for vector embedding and semantic analysis on their data set. Further support from the Amazon Open Search team has enabled DTEX to be efficient and follow best practices for architecture design, implementation, and production of their solutions.  
 [Learn-More](https://www.youtube.com/watch?v=m9MWN9XpX5Y)   
