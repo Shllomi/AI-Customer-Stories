@@ -66,7 +66,7 @@ Foundation model(FM)-based classifier through prompt engineering: Travelers rece
 
 _**Retail**_
 ------------------------
-**Booking.com**
+**Booking.com**  
 Booking.com was migrating their data-driven operations to the cloud, including more than 3,500 complex data processing workflows. A manual conversation process of these workflows could take years, draining valuable resources, impacting operational efficiency, and lengthening time-to-market for new services, all resulting in a negative user experience. Booking.com collaborated with AWS to design and develop a solution that automated and accelerated the migration process. Using Amazon Bedrock, Amazon SageMaker Studio, and Amazon S3, the solution focused on the following tasks: 1/ Oozie XML to YAML conversion, 2/ YAML validation, revision, and accuracy calculation, 3/ HiveQL to DBT SQL conversion, and 4/ On-prem pyspark to BDX pyspark conversion. The results speak to the power of innovation: 40% reduction in development time, enhanced workflow quality, and improved resource allocation. This enabled Booking.com to focus on what matters most - delivering exceptional travel experiences for their customers while building a more resilient, scalable infrastructure.  
 [Learn-More](https://aws.amazon.com/solutions/case-studies/innovators/booking/)   
 
@@ -106,6 +106,24 @@ DTEX is using GenAI to help analyst teams respond faster, understand the intenti
 **Druva**    
 Druva built multi-agent system that can understand and respond to customer questions in everyday language. Using Amazon Bedrock, AgentCore, and Strands Agents, the solution uses multiple AI agents that work together to dynamically choose the right tool from hundreds of options, to proactively secure, recover, and manage customer data. The system consists of a supervisor agent and sub-agents, including: 1/ Data Agents that surface key signals and trends from telemetry, risk indicators, and history, 2/ Help agent that guide users by troubleshooting problems, investigating incidents, and recommending next steps, and 3/ Action agents that carry out specific tasks, such as recovering workloads, creating protection policies, or adjusting retention to optimize cost. When customers ask a question or need help, the system figures out what they need and handles the technical work "behind the scenes," making it much easier for customers to get things done without needing to understand the technical processes.  
 [Learn-More](https://www.druva.com/about/press-releases/druva-introduces-ai-agents-to-simplify-cyber-resilience)  
+
+
+_**Media & Sports**_
+------------------------ 
+
+**Formula 1®**  
+Formula 1 partnered with AWS to build a root cause analysis (RCA) assistant using Amazon Bedrock, Bedrock Agents, and Bedrock Knowledge Bases. The solution ingests raw logs into Amazon S3, processes data via EventBridge and AWS Glue ETL pipelines, and feeds structured logs into Bedrock Knowledge Bases backed by OpenSearch vectors. Bedrock Agents query internal (SQL, CloudWatch, EC2) and external systems (Jira, Datadog), providing real-time, actionable troubleshooting via a Streamlit based chat UI. Anthropic Claude 3 models orchestrate the agent flow, ensuring accuracy and relevance. Strict API and SQL access controls are implemented for security. Triage time was reduced from days to 20 minutes; overall resolution time dropped by 86%. The RCA agent also autonomously routes problems to relevant teams, letting engineers focus more on innovation and less on manual investigation.  
+[Learn-More](https://aws.amazon.com/blogs/machine-learning/how-formula-1-uses-generative-ai-to-accelerate-race-day-issue-resolution/)
+
+
+_**Agriculture**_
+------------------------ 
+
+**Syngenta**  
+Syngenta’s Cropwise AI, built in collaboration with AWS, empowers seed sales reps and farmers with generative AI tools for seed selection and recommendation. The solution uses Amazon Bedrock Agents to build a multi-agent orchestration layer, integrating user queries, backend agronomic models, and metadata from DynamoDB and S3. AWS Lambda provides serverless function execution, AppSync manages real-time data exchange, and Cognito secures user authentication and access control. Cropwise AI’s agent layer selects between multiple foundation models (Meta, Claude 3.5, Llama, etc.) as needed. Document ingestion and text extraction are automated with S3, Textract, and Step Functions. Bedrock Knowledge Bases enable intelligent retrieval from large agronomic datasets using OpenSearch vectors. Sales reps deliver tailored, data-driven seed recommendations 5x faster; farmers get contextual decision support accessible via a conversational mobile interface. The agent tracks outcomes to personalize recommendations and drive continuous system improvement.  
+[Learn-More](https://aws.amazon.com/blogs/machine-learning/syngenta-develops-a-generative-ai-assistant-to-support-sales-representatives-using-amazon-bedrock-agents/)
+
+---
 
 _**Public Sector**_
 ------------------------
