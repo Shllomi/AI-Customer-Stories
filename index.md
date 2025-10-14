@@ -42,6 +42,10 @@ Built a post-trade client services agent assistant with Amazon Q Business for ra
 Migrated 50% of IT to AWS and uses generative AI (Amazon Bedrock) for market data, analytics, and green/sustainable business initiatives.  
 [Learn-More](https://aws.amazon.com/solutions/case-studies/innovators/tp-icap/?did=cr_card&trk=cr_card)
 
+**Vexi**  
+Vexi is a challenger fintech aiming to broaden financial inclusion in Mexico. Their goal was to automate credit risk checks and customer onboarding, minimizing manual review yet maintaining strict risk controls as demand outpaced headcount. Partnering with Morris & Opazo and AWS, Vexi deployed scalable ML pipelines using Amazon Bedrock and SageMaker. These services process vast streams of applicant data, calculate risk in near real-time, and enable flexible model evolution for regulatory change. Results: Faster onboarding for new customers, expanded credit access for the underserved, and a resilient risk evaluation pipeline.  
+[Learn-More](https://aws.amazon.com/es/solutions/case-studies/vexi-morris/)
+
 ---
 
  _**Healthcare & Life Sciences**_
