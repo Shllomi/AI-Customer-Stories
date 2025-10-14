@@ -12,7 +12,7 @@ This repository provides various public stories on how organizations approach an
 
 ---
 
-_**Financial Services**_
+_**Financial Services & Capital Markets**_
 ------------------------ 
 
 **Itaú Unibanco**    
@@ -33,6 +33,14 @@ Thomson Reuters modernized over 1.5 million lines of legacy .NET code per month 
 **Rocket Companies**  
 Rocket Companies utilizes Amazon Bedrock and agentic generative AI to solve critical homeownership workflow challenges. Their solution, including the Rocket Assist tool, leverages over 10 petabytes of operational data and automates time-consuming administrative tasks. By using Amazon Bedrock’s multi-agent capabilities, they deliver solutions that achieved 68% faster query resolution and tripled loan closure rates. Bedrock agents orchestrate backend logic, data lookups, and conversational flows helping Rocket automate service and resource intensive business processes throughout the homeownership journey.  
 [Learn-More](https://www.youtube.com/watch?v=Egc77PutWEo&list=PL2yQDdvlhXf89LPUVrnqUAO9SulA_op40&index=10)
+
+**London Stock Exchange Group (LSEG)**  
+Built a post-trade client services agent assistant with Amazon Q Business for rapid, AI-driven client support.  
+[Learn-More](https://aws.amazon.com/blogs/machine-learning/london-stock-exchange-group-uses-amazon-q-business-to-enhance-post-trade-client-services/)
+
+**TP ICAP**  
+Migrated 50% of IT to AWS and uses generative AI (Amazon Bedrock) for market data, analytics, and green/sustainable business initiatives.  
+[Learn-More](https://aws.amazon.com/solutions/case-studies/innovators/tp-icap/?did=cr_card&trk=cr_card)
 
 ---
 
