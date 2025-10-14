@@ -15,6 +15,10 @@ This repository provides various public stories on how organizations approach an
 _**Financial Services & Capital Markets**_
 ------------------------ 
 
+**Mastercard**  
+Mastercard operates one of the world’s largest payment networks. Facing increasing volumes and evolving cyber threats, they sought to modernize fraud detection for global transaction security. Using Amazon SageMaker, their team orchestrated continuous ML model retraining and deployed smart classifiers/ensemble models for real-time anomaly detection. This workflow, hosted securely on AWS, ingests global payment streams, enriches risk features, and provides instant approve/block payloads for card transactions at global scale. The result is greater customer trust, lower fraud rates, and a seamless experience for merchants and consumers.  
+[Learn-More](https://aws.amazon.com/it/solutions/case-studies/mastercard-ai-ml-testimonial/)   
+
 **Itaú Unibanco**    
 Pix on WhatsApp is one of the first solutions connected to Inteligência Itaú and uses generative AI to interact with clients through WhatsApp and make day-to-day transfers in an automated and instant way.  
 [Learn-More](https://www.itau.com.br/relacoes-com-investidores/noticias/inteligencia-itau-banco-lanca-nova-experiencia-para-clientes-com-ia-generativa/?lang=en)   
@@ -34,8 +38,13 @@ Thomson Reuters modernized over 1.5 million lines of legacy .NET code per month 
 Rocket Companies utilizes Amazon Bedrock and agentic generative AI to solve critical homeownership workflow challenges. Their solution, including the Rocket Assist tool, leverages over 10 petabytes of operational data and automates time-consuming administrative tasks. By using Amazon Bedrock’s multi-agent capabilities, they deliver solutions that achieved 68% faster query resolution and tripled loan closure rates. Bedrock agents orchestrate backend logic, data lookups, and conversational flows helping Rocket automate service and resource intensive business processes throughout the homeownership journey.  
 [Learn-More](https://www.youtube.com/watch?v=Egc77PutWEo&list=PL2yQDdvlhXf89LPUVrnqUAO9SulA_op40&index=10)
 
+**Protium**  
+Protium is a modern financial services provider digitizing lending for India’s MSMEs. The hurdle: Each credit application required granular, regionally-aware risk profiling, yet Protium needed to preserve speed and compliance across a fast-growing portfolio. They built their advanced lending platform atop AWS, using SageMaker for model training, step-function orchestrators for credit-decision workflows, and secure data lakes for ingesting and archiving financial data. Integrations with partner APIs enable real-time onboarding, while model explainability modules ensure regulatory transparency. The system enabled Protium to serve more SMEs with confidence and to expand lending products rapidly.  
+[Learn-More](https://aws.amazon.com/it/solutions/case-studies/protium-case-study/)
+
 **London Stock Exchange Group (LSEG)**  
 Built a post-trade client services agent assistant with Amazon Q Business for rapid, AI-driven client support.  
+LSEG provides global post-trade, clearing, and financial data services. Their challenge: Serving clients with precision and speed in post-trade support, while navigating a labyrinth of transaction records and regulatory constraints. Their solution is an AI-powered agentic assistant built on Amazon Q Business, which enables both natural language queries and autonomous retrieval of customer data and workflow execution. This system is layered over AWS-native secure data warehouses, incorporating custom plug-ins to traverse and orchestrate multiple downstream settlement systems all with ongoing audit and compliance. LSEG’s support teams are now able to respond in seconds to requests that once took hours or days, improving client confidence and operational agility.
 [Learn-More](https://aws.amazon.com/blogs/machine-learning/london-stock-exchange-group-uses-amazon-q-business-to-enhance-post-trade-client-services/)
 
 **TP ICAP**  
