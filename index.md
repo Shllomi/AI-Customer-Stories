@@ -146,17 +146,23 @@ _**Qlik & Qlik Customers**_
 ------------------------
 **TouchPoint Support Services**  
 Deployed Qlik Answers, an AWS-native generative AI solution, for 15,000 healthcare staff to instantly access thousands of complex policy documents. Powered by Amazon Bedrock and SageMaker, Qlik Answers offers a conversational, agentic interface so employees can simply ask a question to find the relevant policy or procedure. By integrating with Qlik Cloud and leveraging AWS as the data backbone, TouchPoint’s deployment saw huge adoption and time savings, transforming end-user experience for front-line workers.  
-[Source](https://www.qlik.com/us/solutions/customers/customer-stories/touchpoint-support-services)
+[Learn-More](https://www.qlik.com/us/solutions/customers/customer-stories/touchpoint-support-services)
 
 **Lintech International**  
 Lintech’s sales teams use Qlik Answers (agentic AI powered by Amazon Bedrock and AWS infrastructure) to instantly search over 17,000 technical and regulatory documents—reclaiming 7 hours per week per manager and achieving 75% faster customer response times. This system is fully integrated into Lintech’s data landscape on AWS, ensuring secure and accurate retrieval while modernizing workflow.  
-[Source](https://www.qlik.com/us/solutions/customers/customer-stories/lintech-international)
+[Learn-More](https://www.qlik.com/us/solutions/customers/customer-stories/lintech-international)
 
 **Bystronic Group**  
 Bystronic, a global manufacturing leader, transformed operations using Qlik Answers (agentic generative AI on AWS) to turn vast and messy unstructured data—spanning thousands of manufacturing machines—into concise, actionable answers. Their solution, built on Qlik Cloud and AWS services (such as Bedrock and analytics backbone), scaled insights and agentic knowledge to global teams across the manufacturing chain.  
-[Source](https://www.qlik.com/us/solutions/customers/customer-stories/bystronic-group)
+[Learn-More](https://www.qlik.com/us/solutions/customers/customer-stories/bystronic-group)
 
 ---
+
+_**Airline**_
+------------------------
+**Ryanair**  
+Ryanair operates over 3,600 flights daily and has a goal of doubling passenger capacity by 2034. To help provide front line staff with crucial operational information, Ryanair developed a new cabin crew application built risk management and trusted AI controls into the app. Using our automated risk assessment framework powered by Amazon Bedrock, the application provides an automated risk assessment for the cabin crew, and addresses notable Responsible AI dimensions such as security, data privacy, explainability and controllability. How does it work? Leveraging an LLM-as-a-judge approach, the framework checks a set of 250 controls (based on international standards like ISO controls, NIST600 and OWASP frameworks) on top of different artifacts including prompts, source code, and technical documentation. It also directly connects to Ryanair’s API to perform pen-tests and jailbreaking attempts. The solution provides continuous monitoring capabilities and a single pane of glass to drive timely actions and can monitor hundreds of GenAI applications in production.Ryanair and AWS delivered meaningful impact by enhancing risk visibility and automating risk management. The solution established a transparent, data-driven assessment of AI risks in the cabin crew app, providing clear insights where previously risks were difficult to quantify. Furthermore, the solution transformed manual, time-intensive risk evaluations into an automated monitoring solution – a first for Ryanair’s GenAI applications. The solution helps protect both passenger and operational data while enabling Ryanair's ambitious growth plans. By incorporating security and privacy controls from the start, the airline can confidently scale their AI innovations, demonstrating how organizations can embrace generative AI's potential while maintaining robust security practices.
+Learn more about Ryanair’s work on AWS [Here](https://aws.amazon.com/solutions/case-studies/innovators/ryanair/?trk=4b29643c-e00f-4ab6-ab9c-b1fb47aa1708&sc_channel=podcast)
 
 _**Agriculture**_
 ------------------------ 
@@ -166,6 +172,7 @@ Syngenta’s Cropwise AI, built in collaboration with AWS, empowers seed sales r
 [Learn-More](https://aws.amazon.com/blogs/machine-learning/syngenta-develops-a-generative-ai-assistant-to-support-sales-representatives-using-amazon-bedrock-agents/)
 
 ---
+
 
 _**Public Sector**_
 ------------------------
